@@ -1,1 +1,1 @@
-# capstone-1-EDA-of-play-store-data
+# capstone-2-EDA-play-store-data
